@@ -1,0 +1,6 @@
+c:\users\calos\documents\visual studio 2017\Projects\VehicleEngine\VehicleEngine\bin\Debug\VehicleEngine.exe.config
+c:\users\calos\documents\visual studio 2017\Projects\VehicleEngine\VehicleEngine\bin\Debug\VehicleEngine.exe
+c:\users\calos\documents\visual studio 2017\Projects\VehicleEngine\VehicleEngine\bin\Debug\VehicleEngine.pdb
+c:\users\calos\documents\visual studio 2017\Projects\VehicleEngine\VehicleEngine\obj\Debug\VehicleEngine.csprojResolveAssemblyReference.cache
+c:\users\calos\documents\visual studio 2017\Projects\VehicleEngine\VehicleEngine\obj\Debug\VehicleEngine.exe
+c:\users\calos\documents\visual studio 2017\Projects\VehicleEngine\VehicleEngine\obj\Debug\VehicleEngine.pdb
